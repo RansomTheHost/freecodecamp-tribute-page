@@ -1,1 +1,2 @@
 # freecodecamp-tribute-page
+this was my tribute page for "www.freecodecamp.org"  .  my page is about my thoughts on a missing ransware group in short, not to thorough, just simple and basic html with a topic i enjoy. hope this helps others for studies only, this was not intended for cheating, re-using as assignment or anything else other than a study material only. available for messaging always. 
